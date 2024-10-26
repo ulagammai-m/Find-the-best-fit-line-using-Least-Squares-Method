@@ -26,7 +26,8 @@ RegisterNumber:
 ```
 
 ## Output:
-![best fit line](sam.png)
+![OUTPUT](purple-osteospermum-daisy-flower_1373-16.jpeg)
+
 
 
 ## Result:
